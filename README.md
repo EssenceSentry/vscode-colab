@@ -8,6 +8,8 @@
 
 ![Logo](images/vscode_colab.png)
 
+> **ℹ️ Note:** Google Colab now has an official VS Code extension! For the best experience connecting to Colab runtimes, we recommend using the [official Google Colab extension](https://marketplace.visualstudio.com/items?itemName=Google.colab).
+
 **vscode-colab** is a Python library that seamlessly connects your Google Colab or Kaggle notebooks to Visual Studio Code (VS Code) using [VS Code Remote Tunnels](https://code.visualstudio.com/docs/remote/tunnels). It allows you to leverage VS Code's powerful editor and extensions while using the computational resources of cloud-based notebooks.
 
 ## 🚀 Key Features
